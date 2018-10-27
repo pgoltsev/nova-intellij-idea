@@ -1,16 +1,16 @@
 <scheme name="Nova" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2018-10-09T15:09:12</property>
+    <property name="created">2018-10-27T16:51:38</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-10-09T15:09:18</property>
+    <property name="ideVersion">2018.2.5.0.0</property>
+    <property name="modified">2018-10-27T16:52:01</property>
     <property name="originalScheme">Nova</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="546e46" />
     <option name="ANNOTATIONS_COLOR" value="e6eef3" />
     <option name="CARET_COLOR" value="7fc1ca" />
-    <option name="CARET_ROW_COLOR" value="475762" />
+    <option name="CARET_ROW_COLOR" value="4a5b66" />
     <option name="CONSOLE_BACKGROUND_KEY" value="3c4c55" />
     <option name="DELETED_LINES_COLOR" value="1e272c" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="556873" />
@@ -563,7 +563,7 @@
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="9a93e1" />
+        <option name="BACKGROUND" value="854a4a" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
