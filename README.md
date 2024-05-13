@@ -5,6 +5,9 @@ This is a color theme for IntelliJ IDEA IDE based on Nova Color Theme from Trevo
 ([https://trevordmiller.com/projects/nova](https://trevordmiller.com/projects/nova)). Theme is 
 applied only to Editor window due to limitation of IDE customization.
 
+## Colors
+!["Colors"](colors.png "Colors")
+
 ## Screenshots
 !["Editor"](screenshots/editor.png "Editor")
 
